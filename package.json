@@ -1,0 +1,24 @@
+{
+  "name": "pyslicer",
+  "version": "1.0.0",
+  "description": "A python like array slice for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramos95/js_pySlicer.git"
+  },
+  "keywords": [
+    "array",
+    "slice",
+    "proxy"
+  ],
+  "author": "alexander_tux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramos95/js_pySlicer/issues"
+  },
+  "homepage": "https://github.com/Ramos95/js_pySlicer#readme"
+}
