@@ -11,6 +11,7 @@ like function call if not provided they will default to _0_, _array.length_, _1_
 
 ```
 import defineArray from "pyslicer"
+/*or const defineArray = require("pyslicer")*/
 
 let array = defineArray([1,2,3,5,6,7])
 
