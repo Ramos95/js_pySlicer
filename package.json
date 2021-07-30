@@ -1,6 +1,6 @@
 {
   "name": "pyslicer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A python like array slice for JavaScript",
   "main": "index.js",
   "scripts": {
