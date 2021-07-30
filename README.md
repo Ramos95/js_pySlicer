@@ -4,9 +4,6 @@ Simple module to emulate the Python array slicer in JavaScript
 
 ### How to use it
 
-**pySlicer** function just expect one argument, an array of any type,
-so you cant just import it and use it whit to options:
-
 **pySlicer python like slice**
 
 Use a string separated by **':'** with this format **'start:stop:step'**
